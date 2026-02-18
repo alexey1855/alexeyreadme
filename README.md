@@ -1,1 +1,6 @@
 # alexeyreadme
+
+## Technology
+- Python
+- Flask
+
